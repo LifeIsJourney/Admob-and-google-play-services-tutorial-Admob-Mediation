@@ -38,7 +38,7 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
         RequestInterstitial();
         RequestBanner();
 
-       // DisplayBannerAds();
+       
 
 
     }
