@@ -36,6 +36,7 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
         //REQUEST VIDEO
         this.RequestRewardBasedVideo();
         RequestInterstitial();
+        //to show banner ads
         RequestBanner();
 
        
