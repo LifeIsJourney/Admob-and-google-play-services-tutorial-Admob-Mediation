@@ -49,7 +49,7 @@ public class GoogleAdmobMediationHelper : MonoBehaviour
         if (publishingApp)
         {
 #if UNITY_ANDROID
-            string appId = "ca-app-pub-1339385848497432~8740910706";
+            string appId = "ca-app-pub-1339385848497432~874091076";
 #elif UNITY_IPHONE
             string appId = "ca-app-pub-3940256099942544~1458002511";
 #else
@@ -76,7 +76,7 @@ public class GoogleAdmobMediationHelper : MonoBehaviour
         if (publishingApp)
         {
     #if UNITY_ANDROID
-             adUnitId = "ca-app-pub-1339385848497432/3147116326";
+             adUnitId = "ca-app-pub-1339385848497432/314711626";
 #endif
 
         }
@@ -115,7 +115,7 @@ public class GoogleAdmobMediationHelper : MonoBehaviour
         if (publishingApp)
         {
 #if UNITY_ANDROID
-            adUnitId = "ca-app-pub-1339385848497432/6459675376";
+            adUnitId = "ca-app-pub-1339385848497432/645965376";
 #endif
 
         }
