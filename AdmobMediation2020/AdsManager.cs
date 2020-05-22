@@ -1,4 +1,8 @@
-﻿using UnityEngine.UI;
+/*Add this script to GameObject
+CHECK OUT MY GAMES
+https://play.google.com/store/apps/developer?id=Creating+Experience
+*/
+using UnityEngine.UI;
 using UnityEngine;
 [RequireComponent(typeof(GoogleAds))]
 public class AdsManager : MonoBehaviour
